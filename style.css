@@ -1,0 +1,26 @@
+header{
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+li{
+    width : 100%;
+    max-width: 500px;
+    background: whitesmoke;
+    border: 1px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    font-family: san-serif;
+    margin: 20px auto;
+    overflow: hidden;
+}
+
+h1{
+    display: flex;
+    align-items: center;
+    padding: 15px
+}
+p{
+    padding: 0 15px 15px
+}
+
